@@ -14,7 +14,7 @@ async function buscaEndereco(cep) {
 
         cidade.value = consultaCEPConvertida.localidade;
         logradouro.value = consultaCEPConvertida.logradouro;
-        estado.value = consultaCEPConvertida.uf;g
+        estado.value = consultaCEPConvertida.uf;
         bairro.value = consultaCEPConvertida.bairro;
 
         console.log(consultaCEPConvertida);
