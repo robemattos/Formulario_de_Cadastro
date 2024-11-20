@@ -13,9 +13,15 @@
 </div>
 
 <h2>Autor</h2>
-  <div>
+  <style>
+    .Nome_do_Autor {
+      width: 170;
+      text-align: center;
+    }
+  </style>
+  <div class="Nome_do_Autor>
     <img src="\img\Foto.jpeg" width="170" height="180" alt="Foto Robson">
     <p style="width=170; text-align: center">
-      Robson Mattos
+       Robson Mattos
     </p>
   </div>
