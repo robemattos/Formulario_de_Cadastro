@@ -15,5 +15,5 @@
 <h2>Autor</h2>
   <div>
     <img src="\img\Foto.jpeg" width="170" height="180" alt="Foto Robson">
-    <p>Robson Mattos</p>
+    <p style="text-align: center>Robson Mattos</p>
   </div>
