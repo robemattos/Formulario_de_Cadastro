@@ -9,6 +9,7 @@
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style-for-badge&logo-htmls&logoColor-white">
   <img src="https://img.shields.io/badge/CSS-239120?style-for-badge&logo-css3&logoColor-white">
+  <img src="https://img.shields.io/badge/js-239120?style-for-badge&logo-htmls&logoColor-white">
 </div>
 
 <h2>Autor</h2>
